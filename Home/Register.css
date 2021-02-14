@@ -1,0 +1,19 @@
+﻿.txt {
+  margin-bottom: 15px;
+}
+
+.containerForm {
+  margin-top: 6%;
+}
+
+.alert {
+  margin-top: 8px;
+}
+
+.scaleBigToText {
+  transition: all 0.2s ease-in-out;
+}
+
+.scaleBigToText:hover {
+  transform: scale(1.1);
+}
